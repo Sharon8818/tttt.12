@@ -1,4 +1,4 @@
-<img src="README_600.png" width="200" height="200">
+<img src="exported_qrcode_image_600.png" width="200" height="200">
 
 # tttt.12
 
