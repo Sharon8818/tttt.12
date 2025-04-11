@@ -1,3 +1,4 @@
+# QR Code連結
 <img src="exported_qrcode_image_600.png" width="200" height="200">
 
 # tttt.12
@@ -8,6 +9,7 @@
 |2 | 姓名 |劉于樂|
 |3 | 職稱 |員工|
 |4 |任職公司 |台船|  
+|5 |興趣 |追劇|  
 
 
 <a href="https://www.youtube.com/watch?v=J1ty54g-VeQ" target="_blank">蠟筆小新</a><br>
